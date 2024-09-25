@@ -17,7 +17,7 @@ Pivot table
 Grafik rept
 
 
-3. BASIC SPREADSHEET
+2. BASIC SPREADSHEET
 
 Fungsi Dasar
 
@@ -32,14 +32,14 @@ Permasalahan Error
 Vlookup & Hlookup
 
 
-5. EXCEL DATA ANALYST TEST
+3. EXCEL DATA ANALYST TEST
 
 Pivot table
 
 soal excel test
 
 
-7. BIKE SALES DASHBOARD
+4. BIKE SALES DASHBOARD
 
 
-9. SALES DASHBOARD
+5. SALES DASHBOARD

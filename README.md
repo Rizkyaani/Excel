@@ -1,6 +1,6 @@
-#SUMMARY
+SUMMARY
 
-#BASIC EXCEL
+1. BASIC EXCEL
 Fungsi Matematika
 Text join, lower, upper, proper
 Hlookup & vlookup
@@ -9,8 +9,7 @@ Filter & slicer
 Pivot table
 Grafik rept
 
-
-#BASIC SPREADSHEET
+2. BASIC SPREADSHEET
 Fungsi Dasar
 Conditional Functions
 Pivot table
@@ -18,10 +17,9 @@ Chart
 Permasalahan Error
 Vlookup & Hlookup
 
-
-#EXCEL DATA ANALYST TEST
+3. EXCEL DATA ANALYST TEST
 Pivot table
 soal excel test
 
-#BIKE SALES DASHBOARD
-#SALES DASHBOARD
+4. BIKE SALES DASHBOARD
+5. SALES DASHBOARD

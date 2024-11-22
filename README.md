@@ -1,6 +1,6 @@
 SUMMARY
 
-1. BASIC EXCEL
+1. EXCEL TEST
 
 Fungsi Matematika
 
@@ -32,14 +32,8 @@ Permasalahan Error
 Vlookup & Hlookup
 
 
-3. EXCEL DATA ANALYST TEST
 
-Pivot table
-
-soal excel test
+3. BIKE SALES DASHBOARD
 
 
-4. BIKE SALES DASHBOARD
-
-
-5. SALES DASHBOARD
+4. SALES DASHBOARD
